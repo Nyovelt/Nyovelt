@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm **Nyovelt**
+
+- Sophomore [@ShanghaiTech-SIST](https://sist.shanghaitech.edu.cn/)
+- OSS contribution: [GeekPie-mirrors-frontend](https://github.com/ShanghaitechGeekPie/GeekPie-mirrors-frontend) ｜ [ShanghaiTech Grade](https://grade.geekpie.club)
+- More about me: [Blog](https://aaaab3n.moe) | <a href="https://twitter.com/nyovelt"><img src="https://img.shields.io/twitter/follow/nyovelt?style=social" alt="Twitter"></a>
