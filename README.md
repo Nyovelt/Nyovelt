@@ -3,7 +3,7 @@
 
 I'm **Nyovelt**
 
-- Sophomore [@ShanghaiTech-SIST](https://sist.shanghaitech.edu.cn/)
+- Junior [@ShanghaiTech-SIST](https://sist.shanghaitech.edu.cn/)
 - Reinvent the wheels:
 - OSS contribution: [GeekPie-mirrors-frontend](https://github.com/ShanghaitechGeekPie/GeekPie-mirrors-frontend) ｜ [ShanghaiTech Grade](https://grade.geekpie.club)
 - Cool things: 
