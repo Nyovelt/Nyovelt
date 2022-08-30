@@ -3,7 +3,7 @@
 
 I'm **Nyovelt**
 
-- Senior [@ShanghaiTech-SIST](https://sist.shanghaitech.edu.cn/) and Exchange[@U of I](https://illinois.edu/)
+- Senior [@ShanghaiTech-SIST](https://sist.shanghaitech.edu.cn/) and Exchange[ @U of I](https://illinois.edu/)
 - Reinvent the wheels:
 - OSS contribution: [GeekPie-mirrors-frontend](https://github.com/ShanghaitechGeekPie/GeekPie-mirrors-frontend) ｜ [ShanghaiTech Grade](https://grade.geekpie.club)
 - Cool things: 
