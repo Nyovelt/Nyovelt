@@ -8,7 +8,7 @@ I'm **Nyovelt**
 - OSS contribution: [GeekPie-mirrors-frontend](https://github.com/ShanghaitechGeekPie/GeekPie-mirrors-frontend) ｜ [ShanghaiTech Grade](https://grade.geekpie.club)
 - Cool things: [Moss-Telegram-Bot](https://t.me/stanford_moss_cn_bot)
 - Course Project: [CPU](https://github.com/Nyovelt/CS110-Projects) | [Modem](https://github.com/Nyovelt/Native-Modem) | [Compiler](https://github.com/Nyovelt/CS131-Projects) | [Operating System](https://github.com/Nyovelt/pintos-projects) | [HPC-Scheduler](https://github.com/murez/DASH)
-- More about me: [Blog](https://aaaab3n.moe) | [Resume](https://webresources.aaaab3n.moe/resume.pdf)
+- More about me: [Blog](https://aaaab3n.moe) | [Resume](https://misc.aaaab3n.moe/CV.pdf)
 <p>
 <a href="https://twitter.com/nyovelt"><img src="https://img.shields.io/twitter/follow/nyovelt?style=social" alt="Twitter"></a>
 </p>
