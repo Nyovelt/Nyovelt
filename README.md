@@ -2,8 +2,8 @@
 
 
 I'm **Nyovelt**
-
-- Senior [@ShanghaiTech-SIST](https://sist.shanghaitech.edu.cn/) and Exchange Student[ @U of I](https://illinois.edu/)
+- Now a PhD student at North Carolina State University
+- Previous [@ShanghaiTech-SIST](https://sist.shanghaitech.edu.cn/) and [ @U of I](https://illinois.edu/)
 - Reinvent the wheels:
 - OSS contribution: [GeekPie-mirrors-frontend](https://github.com/ShanghaitechGeekPie/GeekPie-mirrors-frontend) ｜ [ShanghaiTech Grade](https://grade.geekpie.club)
 - Cool things: [Moss-Telegram-Bot](https://t.me/stanford_moss_cn_bot)
