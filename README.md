@@ -10,5 +10,5 @@ I'm **Nyovelt**
 - Course Project: [CPU](https://github.com/Nyovelt/CS110-Projects) | [Modem](https://github.com/Nyovelt/Native-Modem) | [Compiler](https://github.com/Nyovelt/CS131-Projects) | [Operating System](https://github.com/Nyovelt/pintos-projects) | [HPC-Scheduler](https://github.com/murez/DASH)
 - More about me: [Blog](https://aaaab3n.moe) | [Resume](https://misc.aaaab3n.moe/CV.pdf)
 <p>
-<a href="https://twitter.com/nyovelt"><img src="https://img.shields.io/twitter/follow/nyovelt?style=social" alt="Twitter"></a>
+<a href="https://twitter.com/canarypwn"><img src="https://img.shields.io/twitter/follow/canarypwn?style=social" alt="Twitter"></a>
 </p>
