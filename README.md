@@ -2,7 +2,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nyovelt&show_icons=true&include_all_commits=true&count_private=true)
 
-[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Nyovelt)](https://wakatime.com/@a44d7754-fd44-4fea-9eb4-8d2ad2086205)
+[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=nyovelt)](https://wakatime.com/@a44d7754-fd44-4fea-9eb4-8d2ad2086205)
 
 > [!TIP]  
 > I am a Ph.D. Student at [North Carolina State University](https://www.ncsu.edu/). My research goal is to make computer software and systems more reliable. I would appreciate any comments or collaborations on my work! Feel free to reach out to me via email at fqin2@ncsu.edu.
